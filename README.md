@@ -29,6 +29,7 @@ step 6:- check your project http://localhost/courierdb/
 step 7:- admin username :-admin1@gmail.com and password : 12345
 
 Connect with me ~Suryansh kumar Srivastava
+         email=suryansh.srivastava1605@gmail.com ... or Instagram = suryansh.srivastava16
 
 
 Do star, fork and share the repo to show your support, it would help others too!
