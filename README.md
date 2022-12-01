@@ -42,4 +42,4 @@ Let me know your views or any changes or improvements or contribute to make bett
 
 
 
---some contents are copied from other users, this is done for the sake of knowledge, may those can allow me for this for the help of others-- 
+--some contents are copied from other users, this is done for the sake of knowledge, may those can allow me for this, for the help of others-- 
