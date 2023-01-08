@@ -80,8 +80,8 @@ CREATE TABLE `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `email`, `subject`, `msg`) VALUES
-(1, 'ram@gmail.com', 'delay', 'I have courier 2 weeks ago but its not delivered yet..'),
-(2, '1sg20is100@sapthagiri.edu.in', 'Delay', 'gjndfjkgnhdfjkgn');
+(1, '1sg20is105@gmail.com', 'delay', 'I have courier 2 weeks ago but its not delivered yet..'),
+(2, '1sg20is100@sapthagiri.edu.in', 'Delay', 'Thankyou for the Services..');
 
 -- --------------------------------------------------------
 
@@ -112,7 +112,7 @@ CREATE TABLE `courier` (
 
 INSERT INTO `courier` (`c_id`, `u_id`, `semail`, `remail`, `sname`, `rname`, `sphone`, `rphone`, `saddress`, `raddress`, `weight`, `billno`, `image`, `date`) VALUES
 (7, 4, 'ram@gmail.com', 'himanshu@gmail.com', 'ram', 'himanshu', '06362786223', '6526652', 'Chikkasandra-Hesaraghatta,Bangalore,Karnataka', 'Boys hostel of Sapthagiri College of Engineering,j', 2, 22, 'cddd.jpeg', '2020-12-06'),
-(8, 4, 'ram@gmail.com', 'gyanshu@gmail.com', 'ram', 'gyanshu', '06362786223', '06362786223', 'Chikkasandra-Hesaraghatta,Bangalore,Karnataka', 'Boys hostel of Sapthagiri College of Engineering,j', 2, 3263, 'fc.png', '2020-12-06');
+(8, 4, 'ram@gmail.com', 'sudanshu@gmail.com', 'ram', 'sudanshu', '06362786223', '06362786223', 'Chikkasandra-Hesaraghatta,Bangalore,Karnataka', 'Boys hostel of Sapthagiri College of Engineering,j', 2, 3263, 'fc.png', '2020-12-06');
 
 -- --------------------------------------------------------
 
@@ -131,8 +131,8 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`email`, `password`, `u_id`) VALUES
-('premkumar1215225@gmail.com', '12345', 1),
-('ram@gmail.com', '12345', 4);
+('utkarsh@gmail.com', '12345', 1),
+('suryansh@gmail.com', '12345', 4);
 
 -- --------------------------------------------------------
 
@@ -152,8 +152,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`u_id`, `email`, `name`, `pnumber`) VALUES
-(1, 'premkumar1215225@gmail.com', 'prem', 56665),
-(4, 'ram@gmail.com', 'ram RAJ', 2147483647);
+(1, 'utkarsh@gmail.com', 'utkarsh', 56665),
+(4, 'suryansh@gmail.com', 'suryansh', 2147483647);
 
 --
 -- Indexes for dumped tables
