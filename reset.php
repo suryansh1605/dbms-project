@@ -25,7 +25,7 @@ $gd = $_SESSION['gid'];
 <body>
     <form action="reset.php" method="POST">
         <table border="0px solid" style="margin-left: auto; margin-right:auto; margin-top:70px; font-weight:bold;border-spacing: 50px 30px;">
-            <th colspan="3" style="text-align: center;font-size:35px; width: 300px; height: 70px;font-weight:bold;">To chalo new Password daalo bina kisi bakchodi k😂</th>
+            <th colspan="3" style="text-align: center;font-size:35px; width: 300px; height: 70px;font-weight:bold;">Please insert new password.</th>
             <tr>
                 <td colspan="2" style="font-size: 20px;font-weight:bold">New Password</td>
                 <td><input type="password" name="pass" placeholder="enter new password" style="font-size: 20px;font-weight:bold" required /></td>
