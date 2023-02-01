@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 31, 2020 at 11:41 AM
+-- Generation Time: Dec 31, 2022 at 11:41 AM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.4.11
 
@@ -81,7 +81,7 @@ CREATE TABLE `contacts` (
 
 INSERT INTO `contacts` (`id`, `email`, `subject`, `msg`) VALUES
 (1, '1sg20is105@gmail.com', 'delay', 'I have courier 2 weeks ago but its not delivered yet..'),
-(2, '1sg20is100@sapthagiri.edu.in', 'Delay', 'Thankyou for the Services..');
+(2, '1sg20is100@gmail.com', 'Service', 'Thankyou for the Services..');
 
 -- --------------------------------------------------------
 
